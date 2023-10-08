@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>PROYECTO SGI_CAJHH</title>
+        <title>SGI_CAJHH</title>
        
         <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
 
